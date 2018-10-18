@@ -2,7 +2,4 @@
 
 A new Flutter application.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img width="298" alt="stateless" src="https://user-images.githubusercontent.com/41986669/47154009-c2693100-d2fe-11e8-999b-05835beebeea.png">
